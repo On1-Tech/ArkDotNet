@@ -5,4 +5,4 @@ ArkDotNet, é um projeto que ainda está em desenvolvimento, caso atualizarmos a
 
 Linguagem Usada:
 
-  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)]
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
