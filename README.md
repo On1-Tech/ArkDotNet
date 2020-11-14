@@ -1,2 +1,2 @@
 # ArkDotNet
-<img align="center" alt"JPG" src="https://media.discordapp.net/attachments/764569199711354880/777238018737569812/ARKDOTNET.jpg" />
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/769628222341251092/777203134552473610/1VOo.gif" />
